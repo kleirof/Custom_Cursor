@@ -1,0 +1,70 @@
+{
+  "cursors": [
+    {
+      "name": "clock",
+      "image": "clock.png"
+    },
+    {
+      "name": "clock purple",
+      "image": "clock_purple.png"
+    },
+    {
+      "name": "clock s0",
+      "image": "clock_s0.png"
+    },
+    {
+      "name": "swords",
+      "image": "swords.png"
+    },
+    {
+      "name": "swords s0",
+      "image": "swords_s0.png"
+    }
+  ],
+  "rgba_modulations": [
+    {
+      "name": "coop purple",
+      "rgba_modulation": [0.804, 0.222, 0.64]
+    },
+    {
+      "name": "soft blue",
+      "rgba_modulation": [0.52, 0.78, 1]
+    },
+    {
+      "name": "metallic gold",
+      "rgba_modulation": [0.88, 0.66, 0.25]
+    },
+    {
+      "name": "neon green",
+      "rgba_modulation": [0.2, 1.0, 0.3]
+    },
+    {
+      "name": "high light",
+      "rgba_modulation": [1.6, 1.6, 1.6]
+    },
+    {
+      "name": "translucent",
+      "rgba_modulation": [1, 1, 1, 0.4]
+    }
+  ],
+  "scales": [
+    {
+      "scale": 0.5
+    },
+    {
+      "scale": 1.5
+    },
+    {
+      "scale": 2.0
+    },
+    {
+      "scale": 2.5
+    },
+    {
+      "scale": 3
+    },
+    {
+      "scale": 3.5
+    }
+  ]
+}
