@@ -24,7 +24,7 @@ Allows to customize the cursor, cursor color, and cursor size. Two players can h
 
 You can modify the cursor, RGBA color modulation, and cursor scaling in `Settings - Mod Config - Custom Cursor`.
 
-### For content creators
+### For Content Creators
 
 By creating your own mods, you can add customized cursors, cursor RGBA modulations, and cursor scales supported by Custom Cursor.
 
